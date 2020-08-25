@@ -1,0 +1,2 @@
+# PythonOracleTransferMysql
+使用Python脚本实现Oracle数据迁移到MySql中
